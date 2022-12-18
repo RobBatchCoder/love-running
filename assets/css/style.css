@@ -1,5 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Unbounded&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
 body{
-    font-family: Arial;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3, 
+h4, h5 ,h6 {
+    font-family: Unbounded, cursive;
 }
